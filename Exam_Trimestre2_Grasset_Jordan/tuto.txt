@@ -1,0 +1,9 @@
+Mode jeux : 
+
+	- déplacement : flèches
+	- sauter : espace
+
+Mode édition :
+
+	- roulette : zoom camera
+	- click gauche : choix et déplacement platforme
